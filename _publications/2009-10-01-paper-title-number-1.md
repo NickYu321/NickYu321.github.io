@@ -1,12 +1,11 @@
 ---
-title: "Paper Title Number 1"
+title: "Multi-actuator light-controlled biological robots"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+date: 2022-8-25
+venue: 'APL Bioengineering'
+paperurl: 'https://pubs.aip.org/aip/apb/article/6/3/036103/2820419'
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+Biohybrid robots, composed of cellular actuators and synthetic scaffolds, have garnered much attention in recent years owing to the advantages provided by their biological components. In recent years, various forms of biohybrid robots have been developed that are capable of life-like movements, such as walking, swimming, and gripping. Specifically, for walking or crawling biorobots, there is a need for complex functionality and versatile and robust fabrication processes. Here, we designed and fabricated multi-actuator biohybrid walkers with multi-directional walking capabilities in response to noninvasive optical stimulation through a scalable modular biofabrication process. Our new fabrication approach provides a constant mechanical strain throughout the cellular differentiation and maturation process. This maximizes the myotube formation and alignment, limits passive bending, and produces higher active forces. These demonstrations of the new fabrication process and bioactuator designs can pave the way for advanced multi-cellular biohybrid robots and enhance our understanding of the emergent behaviors of these multi-cellular engineered living systems.
