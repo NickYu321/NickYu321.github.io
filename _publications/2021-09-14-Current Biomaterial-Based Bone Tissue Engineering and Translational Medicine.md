@@ -2,7 +2,7 @@
 title: "Current Biomaterial-Based Bone Tissue Engineering and Translational Medicine"
 collection: publications
 permalink: /publication/2021-09-14-Current Biomaterial-Based Bone Tissue Engineering and Translational Medicine
-date: 2010-10-01
+date: 2021-09-14
 venue: 'MDPI'
 paperurl: '[http://academicpages.github.io/files/paper2.pdf](https://www.mdpi.com/1422-0067/22/19/10233)'
 ---
