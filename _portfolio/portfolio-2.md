@@ -6,7 +6,7 @@ collection: portfolio
 
 • Optimized and 3d-printed soft robot scaffolds using PEDGA
 
-<br/><img src='/images/BiohybridWalkers2.png'>
+<br/><img src='/images/BiohybridWalkers2.png'>\
 
 • Fabricated muscle actuators through cellular differentiation and maturation
 
