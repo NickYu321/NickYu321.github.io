@@ -1,7 +1,14 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Captain Dragonfly"
+excerpt: "e-VTOL drone with only two propellers<br/><img src='/images/render_5_18.png'>"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+• Stabilized the aircraft with gyroscopic control of its attitude during vertical take-off and landing, switched from vertical takeoff & landing to horizontal flying
+• Utilized calculations and airfoil selection based on experimental data, produced precise wings via light-PLA 3D printing to reduce 50% of wing weight and normal 3D printing wings
+• Built body structure with laser cut and 3D printing, use FEA methods and experimental methods to test and
+improve structure strength
+• Designed and constructed circuits using teensy 4.0, servos, brushless motors, ESCs, Gyro, radio receiver, and
+batteries. Designed body structure to accommodate circuits and balanced the center of mass
+• Established and launched a drone club at school, established an enduring platform for new members to build
+upon and enhance the ongoing project
