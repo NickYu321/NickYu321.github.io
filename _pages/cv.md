@@ -26,8 +26,11 @@ Work experience
 Teaching Assistant
 ======
 CMU: Grader
+
 Mechanics II: 3D Design (24-262)
+
 ZJU-UIUC: Teaching Assistant
+
 Fundamentals of Fluid Dynamics (ME 310)
 Design for Manufacturability (ME 270)  
 
@@ -53,6 +56,7 @@ Skills
 * Thermo dynamics
 * Fluid dynamics
 * Mechine Learning
+
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
