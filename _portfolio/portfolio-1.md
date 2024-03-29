@@ -5,9 +5,9 @@ collection: portfolio
 ---
 
 • Stabilized the aircraft with gyroscopic control of its attitude during vertical take-off and landing, switched from vertical takeoff & landing to horizontal flying
-
+<br/><img src='/images/render_5_18.png'>
 • Utilized calculations and airfoil selection based on experimental data, produced precise wings via light-PLA 3D printing to reduce 50% of wing weight and normal 3D printing wings
-
+<img src='/images/render_5_18.png'>
 • Built body structure with laser cut and 3D printing, use FEA methods and experimental methods to test and
 improve structure strength
 
