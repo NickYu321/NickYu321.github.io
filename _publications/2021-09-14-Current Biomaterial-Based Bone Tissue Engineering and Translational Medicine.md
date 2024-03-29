@@ -1,10 +1,11 @@
 ---
 title: "Current Biomaterial-Based-Bone-Tissue-Engineering-and-Translational-Medicine"
 collection: publications
-permalink: /files/036103_1_online.pdf
+permalink: /files/2021-09-14-Current Biomaterial-Based Bone Tissue Engineering and Translational Medicine
+excerpt: ''
 date: 2021-09-14
 venue: 'MDPI'
-paperurl: 'https://www.mdpi.com/1422-0067/22/19/10233'
+paperurl: 'http://NickYu321.github.io/files/ijms-22-10233.pdf'
 citation: ''
 ---
 
