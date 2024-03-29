@@ -5,8 +5,10 @@ collection: portfolio
 ---
 
 <br/><img src='/images/render_5_18.png'>
-
-![image](https://github.com/NickYu321/NickYu321.github.io/assets/146458921/5ad420ea-1cc3-4958-87d1-8c050394a892)
+<video width="640" height="360" controls>
+  <source src="https://NickYu321.github.io/files/VTOL_vedio.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 • Stabilized the aircraft with gyroscopic control of its attitude during vertical take-off and landing, switched from vertical takeoff & landing to horizontal flying
 ![image](https://github.com/NickYu321/NickYu321.github.io/assets/146458921/ff46616f-265e-4be8-9b24-27428128bc47)
