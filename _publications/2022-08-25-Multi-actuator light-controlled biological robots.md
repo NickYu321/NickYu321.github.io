@@ -1,10 +1,11 @@
 ---
 title: "Multi-actuator light-controlled biological robots"
 collection: publications
-permalink: /publication/036103_1_online.pdf
+permalink: /publication/2022-08-25-Multi-actuator light-controlled biological robots
+excerpt: ''
 date: 2022-8-25
 venue: 'APL Bioengineering'
-paperurl: 'https://pubs.aip.org/aip/apb/article/6/3/036103/2820419'
+paperurl: 'http://NickYu321.github.io/files/036103_1_online.pdf'
 citation: ''
 ---
 
