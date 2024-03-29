@@ -11,54 +11,54 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* M.S. in Mechanical Engineering (Robotics&Control), Carnegie Mellon University, 2024
+* B.S. in Mechanical Engineering, University of Illinois Urbana-Champaign, 2023
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Summer 2023: Engineering Intern
+  * Hangzhou Mowan Technology Co
+  * Developed test requirements and test codes for various electronic sensor with C programming language
+  * Engineered and constructed more than 10 control circuits, including both breadboard prototypes and PCBs
+  * rafted more than 10 comprehensive libraries and a robust API to bolster support for the company's robots
+    
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+Teaching Assistant
+======
+CMU: Grader
+Mechanics II: 3D Design (24-262)
+ZJU-UIUC: Teaching Assistant
+Fundamentals of Fluid Dynamics (ME 310)
+Design for Manufacturability (ME 270)  
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
+* CAD
+  * SolidWorks
+  * CREO
+  * Fusion 360
+  * CATIA
+* CAE
+  * ANSYS
+* Control
+  * Matlab
+* Computer Languages
+  * C/C++
+  * Python
+  * Assembly
+* Circuit Design
+  * Fritzing
+  * KiCAD
+* Robot Localization and Mapping
+* Thermo dynamics
+* Fluid dynamics
+* Mechine Learning
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
+
   
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+
+
