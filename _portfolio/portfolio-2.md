@@ -5,8 +5,10 @@ collection: portfolio
 ---
 
 • Optimized and 3d-printed soft robot scaffolds using PEDGA
+
 • Fabricated muscle actuators through cellular differentiation and maturation
+
 • Performed the movement of biohybrid walkers operating optical and electrical signals, the motion of the walker
 was analyzed in Tracker and MATLAB from simulation videos
-• Published a journal as fourth Author: Wang J, Wang Y, Kim Y, Yu T, Bashir R. 'Multi-actuator light-controlled
-biological robots.' APL Bioengineering. (Aug 2022)
+
+• Many thanks to my mentor and lab alumini, we published a journal for this: [Wang J, Wang Y, Kim Y, Yu T, Bashir R. 'Multi-actuator light-controlled biological robots.' APL Bioengineering. (Aug 2022)](https://pubs.aip.org/aip/apb/article/6/3/036103/2820419)
