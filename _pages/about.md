@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Tianqi Yu's personal websites"
+title: "Tianqi Yu's personal website"
 author_profile: true
 redirect_from: 
   - /about/
