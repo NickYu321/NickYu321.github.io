@@ -9,6 +9,7 @@ collection: portfolio
 ![image](https://github.com/NickYu321/NickYu321.github.io/assets/146458921/ff46616f-265e-4be8-9b24-27428128bc47)
 
 • Utilized calculations and airfoil selection based on experimental data, produced precise wings via light-PLA 3D printing to reduce 50% of wing weight and normal 3D printing wings
+
 ![image](https://github.com/NickYu321/NickYu321.github.io/assets/146458921/af72f745-42b0-43e6-96af-d822ab7f4391)
 
 • Built body structure with laser cut and 3D printing, use FEA methods and experimental methods to test and
