@@ -7,6 +7,8 @@
 # server process.
 
 # Basic Site Settings
+minimal_mistakes_skin    : "dark"
+
 locale                   : "en-US"
 title                    : "Tianqi Yu's Personal Website"
 title_separator          : "-"
