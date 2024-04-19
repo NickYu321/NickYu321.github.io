@@ -40,4 +40,6 @@ Our project comprised several key components and achievements:
 <span style="font-size:larger;"><strong>Conclusion:</strong></span>
 
   Our multi-actuator bio-hybrid walkers project represents a significant leap forward in the field of bio-inspired robotics. By combining soft robotics, cellular engineering, and advanced control systems, we have demonstrated the feasibility and potential of creating adaptive and responsive robotic systems. Moving forward, our research lays the foundation for further exploration and innovation in the realm of bio-hybrid robotics.
-• Many thanks to my mentor and lab alumini, we published a journal for this: [Wang J, Wang Y, Kim Y, Yu T, Bashir R. 'Multi-actuator light-controlled biological robots.' APL Bioengineering. (Aug 2022)](https://pubs.aip.org/aip/apb/article/6/3/036103/2820419)
+
+  
+  Many thanks to my mentor and lab alumini, we published a journal for this: [Wang J, Wang Y, Kim Y, Yu T, Bashir R. 'Multi-actuator light-controlled biological robots.' APL Bioengineering. (Aug 2022)](https://pubs.aip.org/aip/apb/article/6/3/036103/2820419)
