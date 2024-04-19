@@ -29,8 +29,7 @@ The design process involved several key steps:
 
 • Flight Testing: The final assembled drone underwent successful flight tests, demonstrating its capability to fly short distances. However, limitations were identified with the use of FDM printed PLA material due to its inability to meet the lightweight and strength requirements of aircraft construction.
 
-![image](https://github.com/NickYu321/NickYu321.github.io/assets/146458921/93d4d401-6b74-4565-8f0c-42902dac684f)
-
+![image](https://github.com/NickYu321/NickYu321.github.io/assets/146458921/8d9586b6-a065-4410-9e90-040c14923ff2)
 
 <span style="font-size:larger;"><strong>Project Achievements:</strong></span>
 
