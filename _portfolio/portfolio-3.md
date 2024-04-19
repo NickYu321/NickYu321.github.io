@@ -1,6 +1,6 @@
 ---
 title: "Rope Climbing Robot"
-excerpt: "class project-Kinematics and dynamics of machinery <br/><img src='/images/ropeclimbing.png'>"
+excerpt: "class project-Kinematics and dynamics of machinery <br/><img src='/images/c3624134d79babb4d8f4b85e9286241.png'>"
 collection: portfolio
 ---
 
