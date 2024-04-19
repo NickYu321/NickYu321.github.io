@@ -10,8 +10,8 @@ collection: portfolio
   Your browser does not support the video tag.
 </video>
 
-**<span style="font-size:larger;">Introduction:</span>**
 
+**<span style="font-size:larger;">Introduction:</span>**
     Our project revolves around the development of an electric Vertical Take-Off and Landing (e-VTOL) drone, combining advanced control systems, aerodynamic optimization, and innovative construction techniques. By leveraging experimental data and cutting-edge technology, we aimed to create a versatile drone capable of seamless transitions between vertical and horizontal flight modes.
 
 **<span style="font-size:larger;">Objective:</span>**
