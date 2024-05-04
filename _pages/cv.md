@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[View Pdf Version](https://NickYu321.github.io/files/resume.pdf)
+[View PDF Version](https://NickYu321.github.io/files/resume.pdf)
 
 Education
 ======
