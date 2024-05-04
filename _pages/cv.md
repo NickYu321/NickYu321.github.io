@@ -8,7 +8,9 @@ redirect_from:
 ---
 
 {% include base_path %}
+
 [View Pdf Version](https://NickYu321.github.io/files/resume.pdf)
+
 Education
 ======
 * M.S. in Mechanical Engineering (Robotics&Control), Carnegie Mellon University, 2024
